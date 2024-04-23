@@ -32,6 +32,5 @@ def pdf_to_csv(input_path, output_path):
 
     print("Conversion successful!")
 
-# Replace 'test.pdf' and 'output.csv' with your input PDF file and desired output CSV file
 
 pdf_to_csv(r"C:\Users\jatin\OneDrive\Desktop\d2.pdf", r"C:\Users\jatin\Downloads\d11.csv")
