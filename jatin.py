@@ -69,7 +69,7 @@ def e_2():
         d = {}
         for row in data:
             bond_number = row[0]
-            denominations = int(row[1].replace(',', ''))  # Remove commas and convert to integer
+            denominations = int(row[1].replace(',', ''))  
             year = row[2]
             d[year] = d.get(year, 0) + denominations
             cursor.close()
