@@ -15,18 +15,25 @@
 
 <h2>Screenshots of UI </h2>
 1.Home Page of the Website<br>
+
 ![img3](https://github.com/Jatinagarwal24/assignment4/assets/167195254/628e079d-c1db-49be-aedf-1141006ceed5)
 2.Answer of Question 1 for bond number 1113.<br>
+
 ![img4](https://github.com/Jatinagarwal24/assignment4/assets/167195254/50b2c328-1836-4253-bb20-3ec8df184e76)
 3.Answer of Question 2 for company AASHMAN ENERGY PVT LTD.<br>
+
 ![img5](https://github.com/Jatinagarwal24/assignment4/assets/167195254/bfa54389-c63a-44fd-9ef1-513a3be92254)
 4.Answer of Question 3 for party ALL JAMMU AND KASHMIR NATIONAL CONFERENCE
+
 ![img6](https://github.com/Jatinagarwal24/assignment4/assets/167195254/2efeb29d-b32b-48a8-8b18-433115ed736f)
 5.Answer of Question 4 for party MAHARASHTRAWADI GOMNTAK PARTY
+
 ![image](https://github.com/Jatinagarwal24/assignment4/assets/167195254/6aa42d8e-e6c8-49e0-9e48-96e9acc5ea0e)
 6.Answer of Question 5 for company ARAVIND S
+
 ![image](https://github.com/Jatinagarwal24/assignment4/assets/167195254/4b03e278-e042-4ced-a5a7-3a39c5ef9b10)
 7.Answer of Question 6
+
 ![image](https://github.com/Jatinagarwal24/assignment4/assets/167195254/06d177d6-a809-476d-a281-8b9a8cde4f1f)
 
 
